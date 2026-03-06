@@ -1,0 +1,22 @@
+USE OnlineRetailDB;
+
+-- Query 1: Retrieve all orders for a specific customer
+-- Query 2: Find the total sales for each product
+-- Query 3: Calculate the average order value
+-- Query 4: List the top 5 customers by total spending
+-- Query 5: Retrieve the most popular product category
+-- Query 6: List all products that are out of stock, i.e. stock = 0
+-- Query 7: Find customers who placed orders in the last 30 days
+-- Query 8: Calculate the total number of orders placed each month
+-- Query 9: Retrieve the details of the most recent order
+-- Query 10: Find the average price of products in each category
+-- Query 11: List customers who have never placed an order
+-- Query 12: Retrieve the total quantity sold for each product
+-- Query 13: Calculate the total revenue generated from each category
+-- Query 14: Find the highest-priced product in each category
+-- Query 15: Retrieve orders with a total amount greater than a specific value (e.g., $500)
+-- Query 16: List products along with the number of orders they appear in
+-- Query 17: Find the top 3 most frequently ordered products
+-- Query 18: Calculate the total number of customers from each country
+-- Query 19: Retrieve the list of customers along with their total spending
+-- Query 20: List orders with more than a specified number of items (e.g., 5 items)
